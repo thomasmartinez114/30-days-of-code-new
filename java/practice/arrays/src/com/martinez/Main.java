@@ -8,7 +8,7 @@ public class Main {
 
         // Loop through
         for (int i = 0; i <= 5; i++) {
-            System.out.println(grades[i]);
+            System.out.println("Grade number " + i + " is " + grades[i]);
         }
     }
 }
