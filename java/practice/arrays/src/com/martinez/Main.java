@@ -3,6 +3,7 @@ package com.martinez;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // init the array
+        double grades[] = {96.5, 98.7, 99.3, 88.4, 88.6, 90.1};
     }
 }
